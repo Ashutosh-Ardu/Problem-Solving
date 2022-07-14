@@ -1,2 +1,5 @@
-.cph/
-.exe
+# competitve programmer helper files
+*.cph/
+
+# all exe files
+*.exe
